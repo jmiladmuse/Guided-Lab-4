@@ -1,15 +1,15 @@
 /*
- *Name: [First Last]
- *UnityID: [unityID]
- *Date: [Date Completed]
- *Assignment: [Assignment Name]
- *Description: [Assignment Description]
+ *Name: Milad Muse
+ *UnityID: jmmuse
+ *Date: 9/25/2026
+ *Assignment: Guided Lab 4
+ *Description: Guided Lab Assignment, about me webpage
  */
  
 p {
     font-family: Times;
-    font-size: 16px
-    color: #decaff
+    font-size: 16px;
+    color: #decaff;
 }
 
 .table-border {
@@ -17,6 +17,6 @@ p {
 }
 
 #photo-resize {
-    mox-width: 250px;
+    max-width: 250px;
     max-height: 300px;
 }
