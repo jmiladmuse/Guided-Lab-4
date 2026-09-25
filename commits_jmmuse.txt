@@ -1,0 +1,11 @@
+commit 0cea8a0006859420f968d30f52204d2d66c6df9e
+Author: Milad Muse <jmmuse@ncsu.edu>
+Date:   Fri Sep 25 15:32:52 2026 -0400
+
+    Fix CSS syntax, semicolons, and maxwidth
+
+commit fa9268137822d3caa781d0cd85bd2a4e7a764dc9
+Author: Milad Muse <jmmuse@ncsu.edu>
+Date:   Fri Sep 25 15:16:58 2026 -0400
+
+    first commit
